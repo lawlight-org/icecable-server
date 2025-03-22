@@ -12,6 +12,7 @@ This is the server for IceCable, an instant messaging app focused on privacy and
 ### Prerequisites
 - [Node.js](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/)
+- [MariaDB](https://mariadb.org/)
 
 ### Clone the repository
 ```bash
